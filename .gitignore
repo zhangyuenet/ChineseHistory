@@ -1,0 +1,10 @@
+# MacOS
+*~
+.DS_Store
+
+*.log
+*.gz
+.env
+
+# Ulysses
+.Ulyss*
